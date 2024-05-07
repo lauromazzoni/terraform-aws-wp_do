@@ -2,4 +2,7 @@
 
 
 Esse projeto tem como objetivo criar um módulo de wordpress para a AWS com o Terraform.
+Esse projeto tem como objetivo criar um módulo de wordpress para a AWS com o Terraform.
+Esse projeto tem como objetivo criar um módulo de wordpress para a AWS com o Terraform.
+
 
